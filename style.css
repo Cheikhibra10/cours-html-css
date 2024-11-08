@@ -86,7 +86,7 @@
 .hero-img{
     width: 600px;
     height:400px;
-    background-image: url(/hero-img.jpg);
+    background-image: url(images/hero-img.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 60px;
@@ -134,7 +134,7 @@
     border-radius: 60px;
     width: 620px;
     height: 400px;
-    background-image: url(/plat2-img.jpg);
+    background-image: url(images/plat2-img.jpg);
     background-size: cover;
 }
 
@@ -142,7 +142,7 @@
     border-radius: 60px;
     width: 620px;
     height: 400px;
-    background-image: url(/plat-img.jpg);
+    background-image: url(images/plat-img.jpg);
     background-size: cover;
 }
 
@@ -176,7 +176,7 @@
     height: 370px;
     margin: 5% auto;
     filter: brightness(0.8);
-    background-image: url(/plat3-img.jpg);
+    background-image: url(images/plat3-img.jpg);
     background-size: cover;
     background-position: center;
 }
